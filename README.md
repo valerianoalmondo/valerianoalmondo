@@ -7,10 +7,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-## <samp>System.out.printl(![#c5f015](https://via.placeholder.com/15/c5f015/000000?"Hello World!"=+))</samp> <img src="https://user-images.githubusercontent.com/70283310/149557132-5ce7369f-61f9-4fab-b0e6-be5ec98a98c6.gif" width="22px">
+## <samp>System.out.printl("Hello World!")</samp> <img src="https://user-images.githubusercontent.com/70283310/149557132-5ce7369f-61f9-4fab-b0e6-be5ec98a98c6.gif" width="22px">
 
 
 <samp>I'm Lukáš Kučavík originaly from Czech Republic🇨🇿, currently mastering back end technologies to land my first job in Prag 🏰, passionate about solving problems with technology and creating different solutions.
+
 <img src="https://user-images.githubusercontent.com/70283310/149557349-cbd70378-d5c5-40f9-a76a-1e4ae32fda2e.gif" width="30px">
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
