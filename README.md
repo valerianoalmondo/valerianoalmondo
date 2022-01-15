@@ -21,6 +21,6 @@
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
 - 👽 &nbsp; <samp>Passionate about holistic lifestyle.</samp>
 - 🌱 &nbsp; <samp>Loving sustainable lifestyle.</samp>
-- 👨‍🎓 &nbsp; <samp>My current i.t. education [__here__](https://github.com/valerianoalmondo/list-of-courses-certifications).</samp>
+- 👨‍🎓 &nbsp; <samp>My current education [__here__](https://github.com/valerianoalmondo/list-of-courses-certifications).</samp>
 
 ---
