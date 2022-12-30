@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/lukáš-kučav%C3%ADk-853520166/)](https://www.linkedin.com/in/lukáš-kučav%C3%ADk-853520166/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/zodpovedny_za_svuj_zivot/)](https://www.instagram.com/zodpovedny_za_svuj_zivot/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C&link=https://www.facebook.com/LucasKucavik)](https://www.facebook.com/LucasKucavik)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C&link=https://www.facebook.com/LucasKucavik)](https://www.facebook.com/ValerianoAlmondo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:lucaskucavik@gmail.com)](mailto:lucaskucavik@gmail.com)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
